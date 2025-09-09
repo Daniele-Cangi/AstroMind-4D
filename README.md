@@ -1,7 +1,7 @@
-# AstroMind-4D
+# 🌌 AstroMind-4D 
 Physics-aware, uncertainty-gated framework for multi-horizon behavioral modeling.
 [README.md](https://github.com/user-attachments/files/22233118/README.md)
-# 🌌 AstroMind-4D  
+ 
 
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg?logo=python)](https://www.python.org/)  
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.4+-EE4C2C.svg?logo=pytorch)](https://pytorch.org/)  
