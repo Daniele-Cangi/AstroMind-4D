@@ -1,5 +1,13 @@
 # 🌌 AstroMind-4D  
 
+[![CI](https://github.com/Daniele-Cangi/AstroMind-4D/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Daniele-Cangi/AstroMind-4D/actions/workflows/ci.yml)
+
+![Python](https://img.shields.io/badge/python-3.10%20|%203.11-blue)
+
+[![License](https://img.shields.io/github/license/Daniele-Cangi/AstroMind-4D)](LICENSE)
+
+![Last commit](https://img.shields.io/github/last-commit/Daniele-Cangi/AstroMind-4D)
+
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg?logo=python)](https://www.python.org/)  
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.4+-EE4C2C.svg?logo=pytorch)](https://pytorch.org/)  
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache_2.0-green.svg)](./LICENSE)  
