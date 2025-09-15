@@ -1,4 +1,5 @@
 # 🌌 AstroMind-4D  
+[![CI](https://github.com/Daniele-Cangi/AstroMind-4D/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Daniele-Cangi/AstroMind-4D/actions/workflows/ci.yml)
 
 [![Python](https://img.shields.io/badge/python-3.11%2B-blue.svg?logo=python)](https://www.python.org/)  
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.4+-EE4C2C.svg?logo=pytorch)](https://pytorch.org/)  
