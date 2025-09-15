@@ -6,7 +6,7 @@
 [![Status](https://img.shields.io/badge/status-Experimental-orange)]()  
 [![Contributions Welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](./CONTRIBUTING.md)  
 [![Code style: Black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)  
-[![Release](https://img.shields.io/github/v/tag/Daniele-Cangi/AstroMind-4D?label=release)](https://github.com/Daniele-Cangi/AstroMind-4D/releases)  
+[![Release](https://img.shields.io/github/v/tag/Daniele-Cangi/AstroMind-4D?label=release)](https://github.com/Daniele-Cangi/AstroMind-4D/releases)    
 
 **AstroMind-4D** is a **multi-horizon modeling framework** with **uncertainty gating, physics-aware loss, and drift detection**.  
 It is designed to model **complex adaptive systems** across multiple domains — from finance and robotics to energy forecasting and biomedicine.  
